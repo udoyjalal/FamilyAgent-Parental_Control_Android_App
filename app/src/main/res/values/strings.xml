@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">Family Agent</string>
+    <string name="hint_text_mail">Email</string>
+    <string name="hint_text_time">Enter interval time in minute (min time 15 minute)</string>
+    <string name="start">Start</string>
+    <string name="error_invalid_email_address">Invalid email address</string>
+    <string name="error_invalid_interval_time">Invalid interval time min time is 15 minute</string>
+    <string name="channel_name">Channel_name</string>
+    <string name="channel_description">describtion</string>
+    <string name="appbar_scrolling_view_behavior">describtion</string>
+    <string name="privacy_policy">Privacy policy</string>
+    <string name="privacy_policy_tools_and_technique_built_the_family_agent_calls_and_locations_tracker_app_as_a_commercial_app_this_service_is_provided_by_tools_and_technique_and_is_intended_for_use_as_is_this_page_is_used_to_inform_visitors_regarding_our_policies_with_the_collection_use_and_disclosure_of_personal_information_if_anyone_decided_to_use_our_service_if_you_choose_to_use_our_service_then_you_agree_to_the_collection_and_use_of_information_in_relation_to_this_policy_the_personal_information_that_we_collect_is_used_for_providing_and_improving_the_service_we_will_not_use_or_share_your_information_with_anyone_except_as_described_in_this_privacy_policy_the_terms_used_in_this_privacy_policy_have_the_same_meanings_as_in_our_terms_and_conditions_which_is_accessible_at_family_agent_calls_and_locations_tracker_unless_otherwise_defined_in_this_privacy_policy_information_collection_and_use_for_a_better_experience_while_using_our_service_we_may_require_you_to_provide_us_with_certain_personally_identifiable_information_including_but_not_limited_to_location_and_phone_calls_the_information_that_we_request_will_be_retained_by_us_and_used_as_described_in_this_privacy_policy_the_app_does_use_third_party_services_that_may_collect_information_used_to_identify_you_link_to_privacy_policy_of_third_party_service_providers_used_by_the_app_google_play_services_log_data_we_want_to_inform_you_that_whenever_you_use_our_service_in_a_case_of_an_error_in_the_app_we_collect_data_and_information_through_third_party_products_on_your_phone_called_log_data_this_log_data_may_include_information_such_as_your_device_internet_protocol_ip_address_device_name_operating_system_version_the_configuration_of_the_app_when_utilizing_our_service_the_time_and_date_of_your_use_of_the_service_and_other_statistics_cookies_cookies_are_files_with_a_small_amount_of_data_that_are_commonly_used_as_anonymous_unique_identifiers_these_are_sent_to_your_browser_from_the_websites_that_you_visit_and_are_stored_on_your_device_s_internal_memory_this_service_does_not_use_these_cookies_explicitly_however_the_app_may_use_third_party_code_and_libraries_that_use_cookies_to_collect_information_and_improve_their_services_you_have_the_option_to_either_accept_or_refuse_these_cookies_and_know_when_a_cookie_is_being_sent_to_your_device_if_you_choose_to_refuse_our_cookies_you_may_not_be_able_to_use_some_portions_of_this_service_service_providers_we_may_employ_third_party_companies_and_individuals_due_to_the_following_reasons_to_facilitate_our_service_to_provide_the_service_on_our_behalf_to_perform_service_related_services_or_to_assist_us_in_analyzing_how_our_service_is_used_we_want_to_inform_users_of_this_service_that_these_third_parties_have_access_to_your_personal_information_the_reason_is_to_perform_the_tasks_assigned_to_them_on_our_behalf_however_they_are_obligated_not_to_disclose_or_use_the_information_for_any_other_purpose_security_we_value_your_trust_in_providing_us_your_personal_information_thus_we_are_striving_to_use_commercially_acceptable_means_of_protecting_it_but_remember_that_no_method_of_transmission_over_the_internet_or_method_of_electronic_storage_is_100_secure_and_reliable_and_we_cannot_guarantee_its_absolute_security_links_to_other_sites_this_service_may_contain_links_to_other_sites_if_you_click_on_a_third_party_link_you_will_be_directed_to_that_site_note_that_these_external_sites_are_not_operated_by_us_therefore_we_strongly_advise_you_to_review_the_privacy_policy_of_these_websites_we_have_no_control_over_and_assume_no_responsibility_for_the_content_privacy_policies_or_practices_of_any_third_party_sites_or_services_children_s_privacy_these_services_do_not_address_anyone_under_the_age_of_13_we_do_not_knowingly_collect_personally_identifiable_information_from_children_under_13_in_the_case_we_discover_that_a_child_under_13_has_provided_us_with_personal_information_we_immediately_delete_this_from_our_servers_if_you_are_a_parent_or_guardian_and_you_are_aware_that_your_child_has_provided_us_with_personal_information_please_contact_us_so_that_we_will_be_able_to_do_necessary_actions_changes_to_this_privacy_policy_we_may_update_our_privacy_policy_from_time_to_time_thus_you_are_advised_to_review_this_page_periodically_for_any_changes_we_will_notify_you_of_any_changes_by_posting_the_new_privacy_policy_on_this_page_these_changes_are_effective_immediately_after_they_are_posted_on_this_page_contact_us_if_you_have_any_questions_or_suggestions_about_our_privacy_policy_do_not_hesitate_to_contact_us_at_inform_fagent_gmail_com">Privacy policy: Tools and Technique built the Family Agent - calls and locations tracker app as a Commercial app. This SERVICE is provided by Tools and Technique and is intended for use as is. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy. The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Family Agent - calls and locations tracker unless otherwise defined in this Privacy Policy. Information Collection and Use For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to Location and Phone Calls. The information that we request will be retained by us and used as described in this privacy policy. The app does use third party services that may collect information used to identify you. Link to privacy policy of third party service providers used by the app Google Play Services Log Data We want to inform you that whenever you use our Service, in a case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, the time and date of your use of the Service, and other statistics. Cookies Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device\'s internal memory. This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service. Service Providers We may employ third-party companies and individuals due to the following reasons: To facilitate our Service; To provide the Service on our behalf; To perform Service-related services; or To assist us in analyzing how our Service is used. We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. Security We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security. Links to Other Sites This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, we strongly advise you to review the Privacy Policy of these websites. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services. Children’s Privacy These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions. Changes to This Privacy Policy We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page. Contact Us If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at inform.fagent@gmail.com.</string>
+    <string name="privacy_policy_details">Privacy policy \n\nParental control Ltd built the
+        Family Agent - calls and locations tracker app as a Commercial app. This SERVICE is
+        provided by Tools and Technique and is intended for use as is. \n\nWe will tell describe our conditions here.
+        Along with that those who will receive our service, we will let them know how we will collect, use and
+        share their data.
+
+        \n\nWith your permissions we collect data from your device. By using,
+
+        \n\n* Phone Call Log
+        \n\n* Location
+
+        \n\nIf you want to receive our service, you have to accept our conditions.
+        We usually collect your information to provide you better service. We do not share your
+        valuable data with others, excepting those conditions mentioned.
+        \n\nFamily Agent - calls and locations tracker will not use your data apart from the conditions.
+
+        \n\nInformation Collection and Use \n\nWe usually collect user’s phone call log and location to
+        provide better service. As it is a parental control app, we send the data only to the destined parent.
+        Apart from that the data is not shared with others. We never share our user’s valuable data with any
+        other companies.
+        \n\nLink to privacy policy of third party service providers used by the app\n
+    •	Google Play Services
+
+        \n\nLog Data\n\nWe want to inform you that, to provide better service we collect user’s phone call log,
+        when and with whom he/she has talked with, the number he/she has talked with, the time and date of his/her calls.
+        And we send those data to you through this app. For that reason we are currently using Gmail as a third-party app.
+        And after delivering the data to you, we delete those immediately. Your data is not get stored in our server.
+
+        \n\nCookies\n\nCookies are files with a small amount of data that are commonly
+        used as anonymous unique identifiers.
+        These are sent to your browser from the websites that
+        you visit and are stored on your devices internal memory.\n\nThis Service does not use these “cookies” explicitly.
+        However, the app may use third party code and libraries that use “cookies” to collect
+        information and improve their services. You have the option to either accept or refuse these
+        cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies,
+        you may not be able to use some portions of this Service.
+
+        \n\nService Providers\n\nWe may employ third-party companies
+        and individuals due to the following reasons:\n\n*To facilitate our Service;\n\n*To provide the Service on our behalf;\n
+        *To perform Service-related services; or\n\n*To assist us in analyzing how our Service is used.\n\nWe want to
+        inform users of this Service that these third parties have access to your Personal Information.
+        The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not
+        to disclose or use the information for any other purpose.
+
+        \n\nSecurity\n\nYour trust is everything to us. So we have taken all the steps to retain your trust.
+        We do not share your data with others. Only you will be able to know your immature child’s information,
+        no one else. We provide 100% security of your valuable data.
+
+        \n\nLinks to Other Sites\n\nYou will not have any kind of advertisement in our service.
+        So there is no chance of being connected with any third-party link.
+
+        \n\nChildren’s Privacy\n\nThese Services do not
+        address anyone under the age of 13. We do not knowingly collect personally identifiable
+        information from children under 13. In the case we discover that a child under 13
+        has provided us with personal information, we immediately delete this from our servers.
+        If you are a parent or guardian and you are aware that your child has provided us
+        with personal information, please contact us so that we will be able to do necessary actions.
+
+        \n\nChanges to This Privacy Policy\n\nThe policy will be updated if necessary.
+        You will be notified about that and you are requested to check the updated policy at once.
+        This is important for you as well as for us.
+
+        \n\nContact Us\n\nIf you have any query or suggestion about our privacy policy then please
+        let us know via this email, \n\n inform.fagent@gmail.com.\n</string>
+
+</resources>
